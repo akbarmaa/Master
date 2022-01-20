@@ -1,0 +1,9 @@
+Kesalahan dalam penginputan
+
+- dalam satuan kilo, jika 300gr
+diisi dengan 0.3 gr
+
+- jika setengah diisi 0.5
+  jika dua setengah diisi 2.5
+  tidak diisi 2/5 dsb
+
